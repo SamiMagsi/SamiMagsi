@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamiMagsi&langs_count=4&hide=html,css,javascript,java&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
-</p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiMagsi&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  </p>
